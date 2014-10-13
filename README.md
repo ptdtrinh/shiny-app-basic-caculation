@@ -1,5 +1,12 @@
 shiny-app-basic-caculation
 ==========================
+Getting started:
+- Download this app and extract it into your computer.
+- Open RStudio, install the "shiny" package by: install.package("shiny") if you already not.
+- Set your working directory as: setwd("/your_path/shiny-app-basic-calculation") 
+with your_path is the path links to shiny-app-basic-calculation folder.
+- Open files: server.R and ui.R.
+- Press the button "Run App" to run this application.
 
 This small shiny app requires 2 input from user: 
 - choose a dataset: Click on the Select view on the left
