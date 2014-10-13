@@ -17,4 +17,7 @@ Result:
 With your chosen dataset, app will show first 10 rows of it. If you choose "True" in the Structure of dataset,
 you will see overview of this dataset (how many rows? cols? type of its variables? some sample of these variables....) 
 
-
+App information:
+Title: Basic calculation with shiny
+Author: ptdtrinh
+Type: Shiny
